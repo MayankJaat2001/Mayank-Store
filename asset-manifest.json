@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mayank-Store/static/css/main.abd64e84.css",
+    "main.js": "/Mayank-Store/static/js/main.89b87d2f.js",
+    "index.html": "/Mayank-Store/index.html",
+    "main.abd64e84.css.map": "/Mayank-Store/static/css/main.abd64e84.css.map",
+    "main.89b87d2f.js.map": "/Mayank-Store/static/js/main.89b87d2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.89b87d2f.js"
+  ]
+}
